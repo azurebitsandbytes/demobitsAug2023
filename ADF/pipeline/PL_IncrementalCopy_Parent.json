@@ -1,6 +1,7 @@
 {
 	"name": "PL_IncrementalCopy_Parent",
 	"properties": {
+		"description": "This Pipeline is meant to load data incrementally based on a configuration table",
 		"activities": [
 			{
 				"name": "LKP_ConfigurationTable",
